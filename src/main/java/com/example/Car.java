@@ -3,11 +3,11 @@ package com.example;
 public class Car {
 <<<<<<< HEAD
 
-	private int speed;
+	private int fastspeed;
 
 =======
 	
-	private int speed;
+	private int spped;
 	
 >>>>>>> feature/login
 }
